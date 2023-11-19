@@ -92,7 +92,7 @@ server <- function(input, output) {
       paste("shark_data_", Sys.Date(), ".csv", sep = "")
     },
     content = function(file) {
-      write.csv(data_filtered(), file)
+      write.csv(data_sorted, file)
     }
   )
 }
