@@ -2,7 +2,7 @@
 
 ### Description
 
-sharkattacks is a Shiny app that allows users to explore and visualize data on shark attacks and fatalities by location by producing a histogram plot and a downloadable table.
+sharkattacks is a Shiny app that allows users to explore and visualize data on shark attacks and fatalities by location by producing a histogram plot (a black outline indicates fatalities) and a downloadable table.
 
 Link to the app: <https://eully-ao.shinyapps.io/sharkattacks/>
 
