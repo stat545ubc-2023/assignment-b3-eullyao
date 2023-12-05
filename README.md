@@ -19,7 +19,7 @@ Link to the app: <https://eully-ao.shinyapps.io/sharkattacks2/>
 
 The app uses data published by the Global Shark Attack File (GSAF), specifically a filtered dataset of attack and fatality count data for 183 locations, plus 1 summary count for `World`, spanning from 725 BCE to 2018. This data can be accessed [here](https://github.com/owid/owid-datasets/tree/master/datasets/Shark%20attacks%20and%20fatalities%20-%20Global%20Shark%20Attack%20File%20(GSAF)%20(2018)%20). The full published dataset can be accessed [here](https://docs.google.com/spreadsheets/d/1rH3O8JQ1v6tt7swPNbE5B5-AtVr9OtjhhmwpEuBQFbc/edit#gid=1632639634).
 
-### Resources
+### Packages
 
 sharkattacks2 was built with following packages: [shiny](https://shiny.posit.co/), [tidyverse](https://www.tidyverse.org/), [shinythemes](https://rstudio.github.io/shinythemes/), [plotly](https://plotly.com/r/), [DT](https://rstudio.github.io/DT/), [htmlwidgets](https://www.htmlwidgets.org/), and [rsconnect](https://rstudio.github.io/rsconnect/).
 
