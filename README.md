@@ -8,12 +8,12 @@ Link to the app: <https://eully-ao.shinyapps.io/sharkattacks2/>
 
 ### Features
 
-1.  Location selection: Users can select one or multiple locations to compare.
-2.  Time range selection: Users can select a year range. Negative numbers indicate BCE.
-3.  Interactive plot: Users can interact with the resulting plot, such as hovering over the histogram bars to view the attack and fatality counts.
-4.  Interactive table: Users can interact with the resulting data table, with pagination and the ability to sort the data by one or more of the following: location, year, number of attacks, or number of fatalities.
-5.  Download plot: Users can download a static PNG image of the resulting plot, or an interactive plot as an HTML file.
-6.  Download table: Users can download the data as a sorted table as a CSV, Excel, or PDF file.
+1.  **Location selection:** Users can select one or multiple locations to compare.
+2.  **Time range selection:** Users can select a year range. Negative numbers indicate BCE.
+3.  **Interactive plot:** Users can interact with the resulting plot, such as hovering over the histogram bars to view the attack and fatality counts.
+4.  **Interactive table:** Users can interact with the resulting data table, with pagination and the ability to sort the data by one or more of the following: location, year, number of attacks, or number of fatalities.
+5.  **Download plot:** Users can download a static PNG image of the resulting plot, or an interactive plot as an HTML file.
+6.  **Download table:** Users can download the data as a sorted table as a CSV, Excel, or PDF file.
 
 ### Data source
 
