@@ -1,0 +1,12 @@
+name: sharkattacks2
+title: sharkattacks2
+username: eully-ao
+account: eully-ao
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10714641
+bundleId: 8008982
+url: https://eully-ao.shinyapps.io/sharkattacks2/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
