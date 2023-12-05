@@ -1,3 +1,17 @@
+# sharkattacks2 #
+
+# References
+
+# In addition to documentation for functions within packages, the following resources were also used as references
+# basic ui, reactivity, downloads, HTML: https://mastering-shiny.org/basic-ui.html
+# translating ggplot graph to plotly: https://www.htmlwidgets.org/showcase_plotly.html
+# datatables dom control elements: https://datatables.net/reference/option/dom
+# datatables multi-column ordering: https://datatables.net/examples/basic_init/multi_col_sort.html
+# downloading all results, not just visible results: https://stackoverflow.com/questions/50508854/button-extension-to-download-all-data-or-only-visible-data
+
+# ---------------------------------------#
+
+# load packages
 library(shiny)
 library(tidyverse)
 library(shinythemes)
