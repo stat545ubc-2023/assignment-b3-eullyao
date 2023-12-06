@@ -6,7 +6,7 @@ Using the same data source, sharkattacks2 is an updated version of sharkattacks,
 
 Link to the app: <https://eully-ao.shinyapps.io/sharkattacks2/>
 
-Comparison between sharkattacks and sharkattacks2, highlighting new/improved features
+Comparison between sharkattacks and sharkattacks2, highlighting new/improved features:
 
 +----------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Features             | sharkattacks                                                                                                                                                                  | sharkattacks2                                                                                                                                                                         |
