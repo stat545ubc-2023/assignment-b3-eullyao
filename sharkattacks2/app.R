@@ -43,7 +43,7 @@ ui <- fluidPage(
       HTML(
         '<div style="margin-bottom: 30px;">
         <h4><b>How to use:</h4></b>
-        <p>1. Use the options below to select location(s) and time range.
+        <p>1. Use the options below to select location(s) and time range. Negative values represent BCE.
         The plot and table will update based on the selections. Black outlines in the plot indicate fatalities - hover over data bars for the values.</p>
         <p>2. Hover over plot for viewing options. Click the camera icon when hovering over the plot to download a static image. Or, click <b>download interactive plot</b> below to download an interactive .html plot.</p>
         <p>3. Click the arrows next to the headers in the data table to sort the data. Shift+click to sort by multiple columns.</p>
@@ -103,7 +103,7 @@ server <- function(input, output) {
     plotly_plot()
   })
 
-  # NEW FEATURE #4: create an interactive table
+  # NEW FEATURE #4: create an interactive table with the ability to download mulitiple file types
   output$table <- renderDT(server = FALSE, { # server set to FALSE so ALL rows are downloaded, not just page 1
     datatable(
       data_filtered(),
