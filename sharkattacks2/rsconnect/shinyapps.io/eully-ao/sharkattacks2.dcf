@@ -5,7 +5,7 @@ account: eully-ao
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 10714641
-bundleId: 8009122
+bundleId: 8017226
 url: https://eully-ao.shinyapps.io/sharkattacks2/
 version: 1
 asMultiple: FALSE
